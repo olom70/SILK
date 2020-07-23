@@ -1,4 +1,4 @@
-# analyse perl sources and BTEQ sources.
+# analyse perl sources.
 import os
 import sys
 import glob
